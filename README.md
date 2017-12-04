@@ -3,7 +3,10 @@ Yahoo! Cloud System Benchmark (YCSB)
 Links
 
 http://wiki.github.com/brianfrankcooper/YCSB/
-https://labs.yahoo.com/news/yahoo-cloud-serving-benchmark/ ycsb-users@yahoogroups.com
+
+
+https://labs.yahoo.com/news/yahoo-cloud-serving-benchmark/ycsb-users@yahoogroups.com
+
 Getting Started
 
     Download the latest release of YCSB:
